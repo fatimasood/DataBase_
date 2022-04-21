@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBaseLab</string>
+    <string name="Details">Kindly Enter Your Good Details</string>
+    <string name="name">Name</string>
+    <string name="Nameinput">Enter Your Good Details</string>
+    <string name="contect_number">Contect Number</string>
+</resources>
